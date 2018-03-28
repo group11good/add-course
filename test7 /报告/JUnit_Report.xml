@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test7" time="29" tests="1" failures="0" errors="0">
+   <testsuite name="test7" tests="1" failures="0" errors="0" time="29" timestamp="2018-03-28 20:07:32" hostname="admin - 10.82.208.92" id="Test Suites/test7">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\admin\\Katalon Studio\\Test\\Reports\\test7\\20180328_200729"/>
+         <property name="logFiles" value="C:\\Users\\admin\\Katalon Studio\\Test\\Reports\\test7\\20180328_200729\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="admin - 10.82.208.92"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Chrome 64.0.3282.119"/>
+         <property name="hostAddress" value="10.82.208.92"/>
+         <property name="sessionId" value="c485670e28e20ea08f63aa708b725bbf"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test7" classname="Test Cases/test7" status="PASSED">
+         <system-out><![CDATA[2018-03-28 20:07:33 - [TEST_CASE][PASSED] - Test Cases/test7: Test Cases/test7
+
+2018-03-28 20:07:33 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-03-28 20:07:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-28 20:07:41 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://localhost:8080/ljlj/panduan.jsp' successfully
+
+2018-03-28 20:07:48 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8080/ljlj/panduan.jsp' successfully
+
+2018-03-28 20:07:48 - [TEST_STEP][PASSED] - setText: Text 'teacher' is set on object 'Object Repository/test7/Page_Insert title here/input_juese'
+
+2018-03-28 20:07:48 - [MESSAGE][PASSED] - Text 'teacher' is set on object 'Object Repository/test7/Page_Insert title here/input_juese'
+
+2018-03-28 20:07:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test7/Page_Insert title here/input' is clicked on
+
+2018-03-28 20:07:52 - [MESSAGE][PASSED] - Object: 'Object Repository/test7/Page_Insert title here/input' is clicked on
+
+2018-03-28 20:07:52 - [TEST_STEP][PASSED] - setText: Text '666' is set on object 'Object Repository/test7/Page_/input_user2id'
+
+2018-03-28 20:07:52 - [MESSAGE][PASSED] - Text '666' is set on object 'Object Repository/test7/Page_/input_user2id'
+
+2018-03-28 20:07:52 - [TEST_STEP][PASSED] - setText: Text '666' is set on object 'Object Repository/test7/Page_/input_user2pass'
+
+2018-03-28 20:07:52 - [MESSAGE][PASSED] - Text '666' is set on object 'Object Repository/test7/Page_/input_user2pass'
+
+2018-03-28 20:07:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test7/Page_/input' is clicked on
+
+2018-03-28 20:07:53 - [MESSAGE][PASSED] - Object: 'Object Repository/test7/Page_/input' is clicked on
+
+2018-03-28 20:07:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test7/Page_Insert title here/button_Add class' is clicked on
+
+2018-03-28 20:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/test7/Page_Insert title here/button_Add class' is clicked on
+
+2018-03-28 20:07:56 - [TEST_STEP][PASSED] - setText: Text 'software music' is set on object 'Object Repository/test7/Page_Insert title here/input_coname'
+
+2018-03-28 20:07:56 - [MESSAGE][PASSED] - Text 'software music' is set on object 'Object Repository/test7/Page_Insert title here/input_coname'
+
+2018-03-28 20:07:56 - [TEST_STEP][PASSED] - setText: Text '118' is set on object 'Object Repository/test7/Page_Insert title here/input_coid'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '118' is set on object 'Object Repository/test7/Page_Insert title here/input_coid'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - setText: Text '5' is set on object 'Object Repository/test7/Page_Insert title here/input_acyear'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/test7/Page_Insert title here/input_acyear'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - setText: Text '2' is set on object 'Object Repository/test7/Page_Insert title here/input_semester'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/test7/Page_Insert title here/input_semester'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - setText: Text '50' is set on object 'Object Repository/test7/Page_Insert title here/input_max'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '50' is set on object 'Object Repository/test7/Page_Insert title here/input_max'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - setText: Text '3' is set on object 'Object Repository/test7/Page_Insert title here/input_credit'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '3' is set on object 'Object Repository/test7/Page_Insert title here/input_credit'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - setText: Text '20189' is set on object 'Object Repository/test7/Page_Insert title here/input_tid'
+
+2018-03-28 20:07:57 - [MESSAGE][PASSED] - Text '20189' is set on object 'Object Repository/test7/Page_Insert title here/input_tid'
+
+2018-03-28 20:07:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test7/Page_Insert title here/input' is clicked on
+
+2018-03-28 20:08:00 - [MESSAGE][PASSED] - Object: 'Object Repository/test7/Page_Insert title here/input' is clicked on
+
+2018-03-28 20:08:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/test7/Page_Insert title here/td_software music' is clicked on
+
+2018-03-28 20:08:00 - [MESSAGE][PASSED] - Object: 'Object Repository/test7/Page_Insert title here/td_software music' is clicked on
+
+2018-03-28 20:08:00 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/test7/Page_Insert title here/td_software music' are matched.
+
+2018-03-28 20:08:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/test7/Page_Insert title here/td_software music' are matched.
+
+2018-03-28 20:08:00 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-03-28 20:08:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-28 20:07:32 - [TEST_SUITE][PASSED] - test7: Test Cases/test7]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
