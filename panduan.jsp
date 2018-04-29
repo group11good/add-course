@@ -6,11 +6,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 </head>
-<body background="D:\ljlj\WebContent\image\33.jpg"
+<body background="http://pic1.win4000.com/wallpaper/f/51bb074bc4e48.jpg"
 style=" background-repeat:no-repeat ;
 background-size:100% 100%; 
 background-attachment: fixed;" 
-text="#68228B" onload="setInterval('clock()',1000)">
+text="#68228B" onload="setInterval('clock()',1000)" >
 <form action="panduan2.jsp"  method="post" name="form">
 The student username:555  password:555<br>
 The teacher username:666  password:666<br>
