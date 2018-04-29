@@ -14,7 +14,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body background="D:\ljlj\WebContent\image\33.jpg"
+<body background="http://pic1.win4000.com/wallpaper/f/51bb074bc4e48.jpg"
 style=" background-repeat:no-repeat ;
 background-size:100% 100%; 
 background-attachment: fixed;" 
