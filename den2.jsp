@@ -12,7 +12,7 @@
 <title>登录页面</title>
 <meta charset="utf-8">
 </head>
-<body background="D:\ljlj\WebContent\image\lk.jpg"
+<body background="http://a2.att.hudong.com/38/59/300001054794129041591416974_950.jpg"
 style=" background-repeat:no-repeat ;
 background-size:100% 100%; 
 background-attachment: fixed;" 
