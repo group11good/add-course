@@ -13,7 +13,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body background="D:\ljlj\WebContent\image\33.jpg"
+<body background="http://img15.3lian.com/2015/f1/6/d/10.jpg"
 style=" background-repeat:no-repeat ;
 background-size:100% 100%; 
 background-attachment: fixed;" 
