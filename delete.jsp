@@ -11,7 +11,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body background="http://pic1.win4000.com/wallpaper/f/51bb074bc4e48.jpg"
+style=" background-repeat:no-repeat ;
+background-size:100% 100%; 
+background-attachment: fixed;" 
+text="#68228B" onload="setInterval('clock()',1000)">
 
 
 <table>
@@ -35,7 +39,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<td>${c.credit}</td>
 				<td>${c.tid}</td>
 				
-				 <td><button onclick="del(${c.coid})">删除</button></td> 
+				 <td><button onclick="del(${c.coid})">delete</button></td> 
 			</tr>
 		</c:forEach>
 	</table>
