@@ -12,14 +12,14 @@
 <title>登录页面</title>
 <meta charset="utf-8">
 </head>
-<body background="D:\ljlj\WebContent\image\lk.jpg"
+<body background="http://a2.att.hudong.com/38/59/300001054794129041591416974_950.jpg"
 style=" background-repeat:no-repeat ;
 background-size:100% 100%; 
 background-attachment: fixed;" 
 text="#68228B" onload="setInterval('clock()',1000)">
 
 	<center>
-<h1>Login <a href="add3.jsp"><button>Registered</button></h1>
+<h1>Login </h1>
 <hr>
 	<form action="yanz1.jsp" method="post">
 <table border="1">
@@ -40,7 +40,7 @@ text="#68228B" onload="setInterval('clock()',1000)">
 </table>
 
 </form>
-
+<a href="add3.jsp"><button>Registered</button>
 
 </tr></a>
 </table>
